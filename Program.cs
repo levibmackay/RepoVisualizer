@@ -89,20 +89,19 @@ class Program
 
         // --- Formatting the Output ---
         // converting raw bytes to MB because nobody can read a 10-digit byte count
-        // using standard slashes instead of emojis to look like a legit CLI tool
-        Console.WriteLine($"{indent}{folderName}/ ({(totalFolderSize / 1024.0 / 1024.0):F2} MB)");
+        Console.WriteLine($"{indent}📂 {folderName} ({(totalFolderSize / 1024.0 / 1024.0):F2} MB)");
 
         // adding the exact same thing to the markdown string
         report.AppendLine(
-            $"{indent}- **{folderName}/** ({(totalFolderSize / 1024.0 / 1024.0):F2} MB)"
+            $"{indent}- 📂 **{folderName}** ({(totalFolderSize / 1024.0 / 1024.0):F2} MB)"
         );
 
         if (files.Length > 0)
         {
             report.AppendLine(
-                $"{indent}  - Largest File: `{largestFileName}` ({(largestFileSize / 1024.0):F2} KB)"
+                $"{indent}  - 📄 Largest File: `{largestFileName}` ({(largestFileSize / 1024.0):F2} KB)"
             );
-            report.AppendLine($"{indent}  - File Breakdown:");
+            report.AppendLine($"{indent}  - 📊 File Breakdown:");
 
             // LINQ saves the day. sorting by most common extension so it actually looks professional
             var sortedExtensions = extensionCounts.OrderByDescending(kvp => kvp.Value);
