@@ -1,0 +1,1 @@
+A C# repository analysis tool that recursively scans directory structures, generates Markdown reports, visualizes folder hierarchies, tracks file type distributions, identifies large files, and filters common build artifacts.
