@@ -1,0 +1,14 @@
+C:\Users\Levib\Downloads\projects\RepoVisualizer\bin\Debug\net10.0\RepoVisualizer.exe
+C:\Users\Levib\Downloads\projects\RepoVisualizer\bin\Debug\net10.0\RepoVisualizer.deps.json
+C:\Users\Levib\Downloads\projects\RepoVisualizer\bin\Debug\net10.0\RepoVisualizer.runtimeconfig.json
+C:\Users\Levib\Downloads\projects\RepoVisualizer\bin\Debug\net10.0\RepoVisualizer.dll
+C:\Users\Levib\Downloads\projects\RepoVisualizer\bin\Debug\net10.0\RepoVisualizer.pdb
+C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\RepoVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\RepoVisualizer.AssemblyInfoInputs.cache
+C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\RepoVisualizer.AssemblyInfo.cs
+C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\RepoVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\RepoVisualizer.dll
+C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\refint\RepoVisualizer.dll
+C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\RepoVisualizer.pdb
+C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\RepoVisualizer.genruntimeconfig.cache
+C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\ref\RepoVisualizer.dll
