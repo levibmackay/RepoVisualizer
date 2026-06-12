@@ -12,3 +12,4 @@ C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\refint\RepoVi
 C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\RepoVisualizer.pdb
 C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\RepoVisualizer.genruntimeconfig.cache
 C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\ref\RepoVisualizer.dll
+C:\Users\Levib\Downloads\projects\RepoVisualizer\obj\Debug\net10.0\RepoVisualizer.sourcelink.json
