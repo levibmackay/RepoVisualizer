@@ -97,3 +97,5 @@ One of the biggest takeaways from this project was seeing recursion applied to a
 Levi Mackay
 
 Computer Science student at BYU–Idaho interested in software engineering, developer tools, and building practical projects that improve programming workflows.
+
+_Last updated: 2026-07-16_
